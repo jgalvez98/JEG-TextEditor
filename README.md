@@ -4,7 +4,7 @@
 
   ## Description
   
-  [ENDING 
+  create notes or code snippets with or without an internet connection 
   
   ## Table of Contents
   - [Installation](#installation)
@@ -24,14 +24,14 @@
 
   ## Usage
   
-  PENDING
+  npm start and go to the localhost port 3000 and start using the text editor even without an internet conextion.
 
   ## Contribution
   for this project N/A
   
   ## TestVideo
 
-PENDING
+heroku url: https://jeg-texteditor-1f0435e08f5b.herokuapp.com/
 
 
 
